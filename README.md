@@ -19,6 +19,11 @@ verificar se o aplicativo é renderizado conforme esperado crianda nosso primeir
 
 ---
 
+**Parte 2**
+[Integração com o Repo (GitHub Flow)](https://github.com/FiapFullStack/pipelines/blob/master/flows/GITHUBFLOW.md)
+
+---
+
 ## Requisitos  <a name="Requisitos"></a>
 
 Utilizaremos a arquitetura baseada em containers para instanciar a primeira versão do Jenkins e demonstrar a configuração de um pipeline utilizando o plugin Blue Ocean, este laboratório é baseado na documentação [Build a Node.js and React app with npm ](https://www.jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/#setup-wizard);
